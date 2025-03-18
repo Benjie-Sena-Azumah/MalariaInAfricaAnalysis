@@ -1,5 +1,7 @@
 # Africa Malaria Cases Analysis
 ## Overview
+Africa bears the highest malaria burden, accounting for over 90% of global malaria cases and deaths, primarily due to the widespread presence of the Anopheles gambiae mosquito, which is highly efficient at transmitting the parasite. Young children and pregnant women are particularly vulnerable.
+Efforts to control malaria in Africa include insecticide-treated bed nets (ITNs), indoor residual spraying (IRS), antimalarial drugs, and the introduction of malaria vaccines (e.g., RTS,S/AS01). Despite progress, malaria remains a major public health challenge.
 This repository contains a comprehensive analysis of malaria incidence across African countries, focusing on various aspects such as trends over time, correlation with prevention strategies, and the impact of sanitation and water services. The dataset includes information on malaria incidence, bed net usage, sanitation services, and population demographics.
 ## Dataset
 The dataset used in this analysis is DatasetAfricaMalaria.csv, which includes the following columns:
