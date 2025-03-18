@@ -4,8 +4,8 @@ This repository contains a comprehensive analysis of malaria incidence across Af
 ## Dataset
 The dataset used in this analysis is DatasetAfricaMalaria.csv, which includes the following columns:
 
-Country Name: Name of the country
-Year: Year of the record
+- Country Name: Name of the country
+- Year: Year of the record
 Incidence of malaria (per 1,000 population at risk): Rate of malaria incidence
 Malaria cases reported: Number of reported malaria cases
 Use of insecticide-treated bed nets (% of under-5 population): Percentage of under-5 population using bed nets
