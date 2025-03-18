@@ -59,11 +59,11 @@ The dataset used in this analysis is DatasetAfricaMalaria.csv, which includes th
 ## Conclusion
 The analysis provides valuable insights into malaria incidence across Africa and specifically in Ghana. Key findings include:
 
-1 Overall Trend: There has been a notable fluctuation in malaria incidence over the years, with some countries showing significant improvements while others face persistent challenges.
-2 Country with Highest Cases: The country with the highest number of malaria cases reported varies, but trends indicate that certain regions consistently report higher incidence rates.
-3 Top Malaria-Affected Countries: The top 5 countries with the highest malaria incidence highlight regions where targeted prevention and treatment strategies are crucial.
-4 Prevention Strategies: The correlation analysis indicates that increased use of insecticide-treated bed nets is associated with reduced malaria incidence, though the strength of this correlation varies.
-5 Sanitation and Water Services: Improvements in rural sanitation and drinking water services are linked to better health outcomes, including reduced malaria incidence.
-6 Ghana-Specific Trends: In Ghana, malaria incidence shows varying trends over time, with correlations between bed net usage and incidence providing insights into the effectiveness of malaria prevention measures.
-7 The data underscores the importance of continuous monitoring and targeted interventions in malaria prevention. By understanding these trends and correlations, stakeholders can better focus their efforts on effective strategies and resource allocation.
+1. Overall Trend: There has been a notable fluctuation in malaria incidence over the years, with some countries showing significant improvements while others face persistent challenges.
+2. Country with Highest Cases: The country with the highest number of malaria cases reported varies, but trends indicate that certain regions consistently report higher incidence rates.
+3. Top Malaria-Affected Countries: The top 5 countries with the highest malaria incidence highlight regions where targeted prevention and treatment strategies are crucial.
+4. Prevention Strategies: The correlation analysis indicates that increased use of insecticide-treated bed nets is associated with reduced malaria incidence, though the strength of this correlation varies.
+5. Sanitation and Water Services: Improvements in rural sanitation and drinking water services are linked to better health outcomes, including reduced malaria incidence.
+6. Ghana-Specific Trends: In Ghana, malaria incidence shows varying trends over time, with correlations between bed net usage and incidence providing insights into the effectiveness of malaria prevention measures.
+7. The data underscores the importance of continuous monitoring and targeted interventions in malaria prevention. By understanding these trends and correlations, stakeholders can better focus their efforts on effective strategies and resource allocation.
  
